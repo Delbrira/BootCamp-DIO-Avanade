@@ -1,0 +1,64 @@
+Git --version
+
+
+Git init
+
+
+Git status
+
+
+Git add "  "
+Vai adicionar o arquivo que estiver dentro das aspas duplas
+
+
+Git status
+Vai mostrar o status
+
+
+Git add .
+Vai adicionar todos os arquivos pendentes
+
+
+Git commit -m "commit inicial"
+
+
+Git push
+Vai adicionar o repositorio no github
+
+
+Git reflog
+Vai mostrar as versões
+
+
+Git resert --hard (codigo de uma versão anterior)
+Vai resetar o arquivo atual para uma versão escolhida(codigo)
+
+
+Git branch
+Vai mostrar as branch
+
+
+Git pull
+Atualiza o codigo 
+
+Git branch A
+Adiciona uma nova branch e A é o nome dela
+
+
+Git checkout A
+Vai mudar a branch principal para a selecionada (A)
+
+
+Git merge A
+Vai adicionar os arquivos da branch A para a branch principal
+
+
+Git clone (colocar o link do repositorio)
+
+
+Cd (nome do repositorio) 
+
+Git pull
+
+
+Openssl sha1 (nome do arquivo)
